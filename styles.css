@@ -1,0 +1,30 @@
+.item{
+    display:flex;
+    justify-content:space-around;
+}
+.storeName{
+        background:red;
+        color:white;
+        padding:10px;
+        border-top:10px solid red;
+        border-left:10px solid red;
+        border-right:10px solid red;
+        text-align:center;
+        font-size:30px;
+}
+img{
+    width:100px;
+    height:100px;
+}
+.cartItem{
+    width:100px;
+    height:100px;
+}
+.inputs{
+ display:flex;
+ justify-content:space-around;
+ margin:50px;
+}
+.cart{
+    border:5px solid red;
+}
